@@ -16,5 +16,4 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xiaomi/curtana
-
+LOCAL_PATH := device/xiaomi/miatoll
